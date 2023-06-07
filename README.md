@@ -8,7 +8,6 @@ I'm a Full Stack Web Developer with a love for visual design ✨
 <li>🧹 If you notice that someone reorganised, sectioned and commented your code, it was most likely me
 <li>🌝 Notoriously known for never sleeping (learning and creating things is just too exciting)
 </ul>
-<br>
 
 ## Technologies
 
