@@ -1,6 +1,6 @@
 # Hi, I'm Nana!
 
-I'm a Full Stack Web Developer from Germany with a love for visual design
+I'm a Full Stack Web Developer with a love for visual design
 
 <ul>
 <li>🏡 Frontend is where my home and heart is at, but I do love me a well-engineered backend
@@ -9,7 +9,7 @@ I'm a Full Stack Web Developer from Germany with a love for visual design
 <li>🌝 Notoriously known for never sleeping (learning and creating things is just too exciting)
 </ul>
 
-# Technologies
+## Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -26,7 +26,7 @@ I'm a Full Stack Web Developer from Germany with a love for visual design
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
-# Learning
+## Learning
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="40" height="40"/>&nbsp;
