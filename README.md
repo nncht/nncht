@@ -9,8 +9,6 @@ I'm a Full Stack Web Developer with a love for visual design
 <li>🌝 Notoriously known for never sleeping (learning and creating things is just too exciting)
 </ul>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nncht&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Technologies
 
 <div>
