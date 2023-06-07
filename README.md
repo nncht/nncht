@@ -26,7 +26,6 @@ I'm a Full Stack Web Developer with a love for visual design ✨
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects"  alt="After Effects" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"  alt="Photoshop" width="30" height="30"/>&nbsp;
 </div>
-<br>
 
 ## Learning
 
