@@ -9,7 +9,7 @@ I'm a Full Stack Web Developer with a love for visual design
 <li>🌝 Notoriously known for never sleeping (learning and creating things is just too exciting)
 </ul>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nncht&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nncht)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## Technologies
@@ -30,6 +30,7 @@ I'm a Full Stack Web Developer with a love for visual design
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"  alt="Photoshop" width="30" height="30"/>&nbsp;
 </div>
 <br>
+
 ## Learning
 
 <div>
