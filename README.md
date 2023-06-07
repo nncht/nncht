@@ -1,6 +1,6 @@
 # Hi, I'm Nana!
 
-I'm a Full Stack Web Developer with a love for visual design
+I'm a Full Stack Web Developer with a love for visual design ✨
 
 <ul>
 <li>🏡 Frontend is where my home and heart is at, but I do love me a well-engineered backend
@@ -9,6 +9,7 @@ I'm a Full Stack Web Developer with a love for visual design
 <li>🌝 Notoriously known for never sleeping (learning and creating things is just too exciting)
 </ul>
 <br>
+
 ## Technologies
 
 <div>
