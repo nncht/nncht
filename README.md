@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer with a love for visual design ✨
 <li>🏡 Frontend is where my home and heart is at, but I do love me a well-engineered backend
 <li>🏕️ I'm not afraid to set up a tent on the server side of things, if I have to!
 <li>🧹 If you notice that someone reorganised, sectioned and commented your code, it was most likely me
-<li>🌝 Notoriously known for never sleeping (learning and creating things is just too exciting)
+<li>🌝 Notorious for never sleeping (learning and creating things is just too exciting)
 </ul>
 
 ## Technologies
