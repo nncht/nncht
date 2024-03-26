@@ -3,9 +3,9 @@
 I'm a Full Stack Web Developer with a love for visual design ✨
 
 <ul>
-<li>🏡 I'm passionate about everything Frontend, but am not afraid to get my hands dirty on the Backend if I have to.
-<li>🧹 I love making codes as readable as possible. 
-<li>🌝 I'm notorious for always working/studying and never sleeping.
+<li>🏡 I'm passionate about everything Frontend, but am not afraid to get my hands dirty on the backend side of things.
+<li>🧹 I love making code as readable as possible. 
+<li>🌝 I'm notorious for always learning something new.
 </ul>
 
 ## Technologies
@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer with a love for visual design ✨
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="30" height="30"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"  alt="TailwindCSS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS"  alt="TailwindCSS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator"  alt="Illustrator" width="30" height="30"/>&nbsp;
