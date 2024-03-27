@@ -3,9 +3,9 @@
 I'm a Full Stack Web Developer with a love for visual design ✨
 
 <ul>
-<li>🏡 I'm passionate about everything Frontend, but am not afraid to get my hands dirty on the backend side of things.
+<li>🏡 I'm passionate about everything Frontend, but am not afraid to get my hands dirty on the Backend side of things.
 <li>🧹 I love making code as readable as possible. 
-<li>🌝 I'm notorious for always learning something new.
+<li>🌝 I'm always learning something new.
 </ul>
 
 ## Technologies
