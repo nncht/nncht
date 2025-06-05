@@ -1,6 +1,6 @@
 # Hi, I'm Nana!
 
-I'm a Full Stack Web Developer with a love for visual design ✨
+I'm a Full Stack Web Developer and IT Project Manager with a deep passion for visual design ✨
 
 ## Technologies
 
